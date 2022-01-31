@@ -1,0 +1,22 @@
+/*
+    font-family: 'Bellota', cursive;
+    font-family: 'Lexend Peta', sans-serif;
+    font-family: 'Trochut', cursive;
+*/
+
+body {font-family: 'Lexend Peta', sans-serif;;
+        size:20px;}
+
+h1 {font-family:'Bellota', cursive;}
+
+h2 {font-family:'Bellota', cursive;
+    display:inline;}
+
+p {display:inline;}
+
+.highlight {font-family:'Trochut', cursive;
+                size:36px;
+                color:cornflowerblue;}
+
+.wrapper {width:70%;
+            margin:80px auto 0 auto;}
